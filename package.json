@@ -2,7 +2,7 @@
   "name": "Vanilla_HTTP_Server_SVVS",
   "version": "0.1.0",
   "description": "Vanilla HTTP Server Project",
-  "main": "transformer.js",
+  "main": "server.js",
   "directories": {
     "test": "test"
   },
